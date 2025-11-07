@@ -67,7 +67,3 @@ A cross-platform mobile app that helps users find personalized places and events
 4. Follow the code style guidelines in the contributing docs (see `/docs/`).
 
 ---
-
-## License
-
-[MIT](LICENSE)
